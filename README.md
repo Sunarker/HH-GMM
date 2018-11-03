@@ -11,3 +11,4 @@ One important point is to initialize the mean of the Gaussian distribution with 
 reference paper:
 Discovering user interests from social images
 
+----------------------------------------------------------------------------------------
